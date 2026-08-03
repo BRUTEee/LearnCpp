@@ -1,0 +1,31 @@
+# VS Code settings
+.vscode/
+
+# Compiled executables
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+
+# Static and dynamic libraries
+*.a
+*.lib
+
+# Debug files
+*.pdb
+
+# Temp files
+*.tmp
+*.temp
+
+# Code Runner temporary files
+tempCodeRunnerFile.cpp
+
+# Windows
+Thumbs.db
