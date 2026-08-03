@@ -2,7 +2,7 @@
 
 This repository contains my C++ programs, notes, and practice while learning from LearnCpp.com.
 
-## Current Repository Progress
+## Current Progress
 
 ### Chapter 0 – Introduction / Getting Started
 
