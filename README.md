@@ -8,6 +8,7 @@ This repository contains my C++ programs, notes, and practice while learning fro
 
 - ✅ 0.1 Introduction to these tutorials
 - ✅ 0.2 Introduction to programs and programming languages
+- ✅ 0.3 Introduction to C/C++
 
 > Note: I have personally studied further on LearnCpp, but this repository is being updated gradually with clean, organized code and notes.
 
